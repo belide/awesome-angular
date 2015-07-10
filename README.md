@@ -232,6 +232,8 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
 * [Rethinking AngularJS Controllers](http://toddmotto.com/rethinking-angular-js-controllers/)
 * [Share state between controllers in AngularJS](https://variadic.me/posts/2013-10-15-share-state-between-controllers-in-angularjs.html)
 * [Using Scope.$watch() To Watch Functions In AngularJS](http://www.bennadel.com/blog/2658-using-scope-watch-to-watch-functions-in-angularjs.htm)
+* [How the $apply runs a $digest in 
+AngularJS](http://angular-tips.com/blog/2013/08/watch-how-the-apply-runs-a-digest/) 
 
 
 ## Testing
